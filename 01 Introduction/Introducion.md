@@ -1,4 +1,5 @@
 ## 1 Welcome
+### Machine Learning 
 - Grew out of work in AI
 - New capability for computers
 ### Examples:
@@ -40,6 +41,11 @@ our data set, we are told what is the
 "correct answer" that we would have
 quite liked the algorithms have predicted
 on that example.
+
+- Regression: Predict continuous
+valued output 
+- Classification: Discrete valued
+ output (0 or 1)
 
 ## 5 Unsupervised Learning
 
